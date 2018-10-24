@@ -19,7 +19,7 @@
 	<!DOCTYPE html>
 	<html>
 	<head>
-		<title>weshop | barang - barang elektronik </title>
+		<title>weshop</title>
 
 		<link href="<?php echo BASE_URL."css/coba.css";?>" type="text/css" rel="stylesheet"/>
 		<link href="<?php echo BASE_URL."css/banner.css";?>" type="text/css" rel="stylesheet"/>
